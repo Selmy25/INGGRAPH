@@ -1,0 +1,21 @@
+﻿  camera.cpp
+D:\Инж.граф\laba2_13\laba2_13\camera.cpp(49,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\camera.cpp(53,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\camera.cpp(60,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\camera.cpp(64,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\camera.cpp(68,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  laba2_13.cpp
+D:\Инж.граф\laba2_13\laba2_13\laba2_13.cpp(116,49): warning C4305: аргумент: усечение из "double" в "float"
+  math_3d.cpp
+D:\Инж.граф\laba2_13\laba2_13\math_3d.cpp(26,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\math_3d.cpp(27,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\math_3d.cpp(57,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\math_3d.cpp(57,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\math_3d.cpp(58,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\math_3d.cpp(58,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\math_3d.cpp(59,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\math_3d.cpp(59,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Инж.граф\laba2_13\laba2_13\math_3d.cpp(107,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  pipeline.cpp
+  Создание кода...
+  laba2_13.vcxproj -> D:\Инж.граф\laba2_13\Debug\laba2_13.exe
