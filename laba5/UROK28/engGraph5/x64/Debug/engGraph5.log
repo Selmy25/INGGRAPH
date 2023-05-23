@@ -1,0 +1,25 @@
+﻿  billboard_technique.cpp
+  camera.cpp
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\camera.cpp(63,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\camera.cpp(67,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\camera.cpp(74,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\camera.cpp(78,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\camera.cpp(82,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  eng_graph_5.cpp
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\texture.h(7,10): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  glut_backend.cpp
+  lighting_technique.cpp
+  math_3d.cpp
+  mesh.cpp
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\texture.h(7,10): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  particle_system.cpp
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\texture.h(7,10): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  pipeline.cpp
+  ps_update_technique.cpp
+  random_texture.cpp
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\random_texture.cpp(48,50): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+  technique.cpp
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\technique.cpp(99,36): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  texture.cpp
+D:\ASUS\Downloads\INJ5\UROK28\engGraph5\texture.h(7,10): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  Создание кода...

@@ -1,0 +1,187 @@
+﻿  camera.cpp
+D:\Инж.граф\laba5\UROK33\engGraph5_2\math_3d.h(30,1): warning C4005: M_PI: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28): message : см. предыдущее определение "M_PI"
+  glut_backend.cpp
+  lighting_technique.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: M_PI: изменение макроопределения
+D:\Инж.граф\laba5\UROK33\engGraph5_2\math_3d.h(30): message : см. предыдущее определение "M_PI"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(465,18): warning C4251: Magick::DrawableBezier::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawableBezier"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(574,15): warning C4251: Magick::DrawablePushClipPath::_id: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawablePushClipPath"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(602,17): warning C4251: Magick::DrawableClipPath::_id: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawableClipPath"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(846,15): warning C4251: Magick::DrawableDensity::_density: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawableDensity"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(988,17): warning C4251: Magick::DrawableFillPatternUrl::_url: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawableFillPatternUrl"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(1083,17): warning C4251: Magick::DrawableFont::_font: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawableFont"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(1084,17): warning C4251: Magick::DrawableFont::_family: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawableFont"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(1200,13): warning C4251: Magick::DrawablePath::_path: class "std::vector<Magick::VPath,std::allocator<Magick::VPath>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawablePath"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(209): message : см. объявление "std::vector<Magick::VPath,std::allocator<Magick::VPath>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(1289,18): warning C4251: Magick::DrawablePolygon::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawablePolygon"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(1309,18): warning C4251: Magick::DrawablePolyline::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawablePolyline"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(1393,23): warning C4251: Magick::DrawablePushPattern::_id: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawablePushPattern"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(1879,15): warning C4251: Magick::DrawableStrokePatternUrl::_url: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawableStrokePatternUrl"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2055,15): warning C4251: Magick::DrawableText::_text: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawableText"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2056,15): warning C4251: Magick::DrawableText::_encoding: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::DrawableText"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2491,19): warning C4251: Magick::PathArcAbs::_coordinates: class "std::vector<Magick::PathArcArgs,std::allocator<Magick::PathArcArgs>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathArcAbs"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2456): message : см. объявление "std::vector<Magick::PathArcArgs,std::allocator<Magick::PathArcArgs>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2513,19): warning C4251: Magick::PathArcRel::_coordinates: class "std::vector<Magick::PathArcArgs,std::allocator<Magick::PathArcArgs>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathArcRel"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2456): message : см. объявление "std::vector<Magick::PathArcArgs,std::allocator<Magick::PathArcArgs>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2664,23): warning C4251: Magick::PathCurvetoAbs::_args: class "std::vector<Magick::PathCurvetoArgs,std::allocator<Magick::PathCurvetoArgs>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathCurvetoAbs"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2630): message : см. объявление "std::vector<Magick::PathCurvetoArgs,std::allocator<Magick::PathCurvetoArgs>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2687,23): warning C4251: Magick::PathCurvetoRel::_args: class "std::vector<Magick::PathCurvetoArgs,std::allocator<Magick::PathCurvetoArgs>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathCurvetoRel"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2630): message : см. объявление "std::vector<Magick::PathCurvetoArgs,std::allocator<Magick::PathCurvetoArgs>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2711,18): warning C4251: Magick::PathSmoothCurvetoAbs::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathSmoothCurvetoAbs"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2736,18): warning C4251: Magick::PathSmoothCurvetoRel::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathSmoothCurvetoRel"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2845,32): warning C4251: Magick::PathQuadraticCurvetoAbs::_args: class "std::vector<Magick::PathQuadraticCurvetoArgs,std::allocator<Magick::PathQuadraticCurvetoArgs>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathQuadraticCurvetoAbs"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2811): message : см. объявление "std::vector<Magick::PathQuadraticCurvetoArgs,std::allocator<Magick::PathQuadraticCurvetoArgs>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2869,32): warning C4251: Magick::PathQuadraticCurvetoRel::_args: class "std::vector<Magick::PathQuadraticCurvetoArgs,std::allocator<Magick::PathQuadraticCurvetoArgs>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathQuadraticCurvetoRel"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2811): message : см. объявление "std::vector<Magick::PathQuadraticCurvetoArgs,std::allocator<Magick::PathQuadraticCurvetoArgs>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2893,18): warning C4251: Magick::PathSmoothQuadraticCurvetoAbs::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathSmoothQuadraticCurvetoAbs"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2917,18): warning C4251: Magick::PathSmoothQuadraticCurvetoRel::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathSmoothQuadraticCurvetoRel"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2945,18): warning C4251: Magick::PathLinetoAbs::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathLinetoAbs"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(2969,18): warning C4251: Magick::PathLinetoRel::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathLinetoRel"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(3111,18): warning C4251: Magick::PathMovetoAbs::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathMovetoAbs"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(3135,18): warning C4251: Magick::PathMovetoRel::_coordinates: class "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>" должен иметь dll-интерфейс для использования клиентами class "Magick::PathMovetoRel"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(73): message : см. объявление "std::vector<Magick::Coordinate,std::allocator<Magick::Coordinate>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Exception.h(25,3): warning C4275: class "std::exception", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Magick::Exception"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime_exception.h(48): message : см. объявление "std::exception"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Exception.h(24): message : см. объявление "Magick::Exception"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Exception.h(58,17): warning C4251: Magick::Exception::_what: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::Exception"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(71,25): warning C4251: Magick::ChannelMoments::_huInvariants: class "std::vector<double,std::allocator<double>>" должен иметь dll-интерфейс для использования клиентами class "Magick::ChannelMoments"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(71): message : см. объявление "std::vector<double,std::allocator<double>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(126,25): warning C4251: Magick::ChannelPerceptualHash::_srgbHuPhash: class "std::vector<double,std::allocator<double>>" должен иметь dll-интерфейс для использования клиентами class "Magick::ChannelPerceptualHash"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(71): message : см. объявление "std::vector<double,std::allocator<double>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(127,25): warning C4251: Magick::ChannelPerceptualHash::_hclpHuPhash: class "std::vector<double,std::allocator<double>>" должен иметь dll-интерфейс для использования клиентами class "Magick::ChannelPerceptualHash"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(71): message : см. объявление "std::vector<double,std::allocator<double>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(241,33): warning C4251: Magick::ImageMoments::_channels: class "std::vector<Magick::ChannelMoments,std::allocator<Magick::ChannelMoments>>" должен иметь dll-интерфейс для использования клиентами class "Magick::ImageMoments"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(241): message : см. объявление "std::vector<Magick::ChannelMoments,std::allocator<Magick::ChannelMoments>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(279,40): warning C4251: Magick::ImagePerceptualHash::_channels: class "std::vector<Magick::ChannelPerceptualHash,std::allocator<Magick::ChannelPerceptualHash>>" должен иметь dll-интерфейс для использования клиентами class "Magick::ImagePerceptualHash"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(279): message : см. объявление "std::vector<Magick::ChannelPerceptualHash,std::allocator<Magick::ChannelPerceptualHash>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(304,36): warning C4251: Magick::ImageStatistics::_channels: class "std::vector<Magick::ChannelStatistics,std::allocator<Magick::ChannelStatistics>>" должен иметь dll-интерфейс для использования клиентами class "Magick::ImageStatistics"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Statistic.h(304): message : см. объявление "std::vector<Magick::ChannelStatistics,std::allocator<Magick::ChannelStatistics>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\CoderInfo.h(78,17): warning C4251: Magick::CoderInfo::_description: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::CoderInfo"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\CoderInfo.h(83,17): warning C4251: Magick::CoderInfo::_mimeType: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::CoderInfo"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\CoderInfo.h(84,17): warning C4251: Magick::CoderInfo::_module: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::CoderInfo"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\CoderInfo.h(85,17): warning C4251: Magick::CoderInfo::_name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::CoderInfo"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Montage.h(101,17): warning C4251: Magick::Montage::_fileName: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::Montage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Montage.h(103,17): warning C4251: Magick::Montage::_font: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::Montage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Montage.h(106,17): warning C4251: Magick::Montage::_label: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::Montage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Montage.h(110,17): warning C4251: Magick::Montage::_texture: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::Montage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Montage.h(112,17): warning C4251: Magick::Montage::_title: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::Montage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(134,25): warning C4251: Magick::annotateImage::_text: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::annotateImage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(213,19): warning C4251: Magick::cdlImage::_cdl: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::cdlImage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(273,17): warning C4251: Magick::commentImage::_comment: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::commentImage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(385,18): warning C4251: Magick::drawImage::_drawableList: class "std::vector<Magick::Drawable,std::allocator<Magick::Drawable>>" должен иметь dll-интерфейс для использования клиентами class "Magick::drawImage"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\Drawable.h(146): message : см. объявление "std::vector<Magick::Drawable,std::allocator<Magick::Drawable>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(664,17): warning C4251: Magick::labelImage::_label: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::labelImage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(1294,17): warning C4251: Magick::backgroundTextureImage::_backgroundTexture: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::backgroundTextureImage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(1473,17): warning C4251: Magick::fileNameImage::_fileName: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::fileNameImage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(1497,17): warning C4251: Magick::fontImage::_font: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::fontImage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(1545,17): warning C4251: Magick::magickImage::_magick: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::magickImage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\include\Magick++\STL.h(1842,17): warning C4251: Magick::x11DisplayImage::_display: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Magick::x11DisplayImage"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Инж.граф\laba5\UROK33\engGraph5_2\technique.h(55,1): warning C4005: INVALID_UNIFORM_LOCATION: изменение макроопределения
+D:\Инж.граф\laba5\UROK33\engGraph5_2\ogldev_util.h(38): message : см. предыдущее определение "INVALID_UNIFORM_LOCATION"
+D:\Инж.граф\laba5\UROK33\engGraph5_2\util.h(43,1): warning C4005: INVALID_OGL_VALUE: изменение макроопределения
+D:\Инж.граф\laba5\UROK33\engGraph5_2\ogldev_util.h(39): message : см. предыдущее определение "INVALID_OGL_VALUE"
+D:\Инж.граф\laba5\UROK33\engGraph5_2\util.h(55,1): warning C4005: GLExitIfError: изменение макроопределения
+D:\Инж.граф\laba5\UROK33\engGraph5_2\ogldev_util.h(51): message : см. предыдущее определение "GLExitIfError"
+  math_3d.cpp
+  mesh.cpp
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(207,15): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(186): message : во время компиляции функции-члена класс шаблон "void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)"
+          with
+          [
+              TReal=float
+          ]
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(435): message : выполняется компиляция ссылки на экземпляр шаблон функции "void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)"
+          with
+          [
+              TReal=float
+          ]
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(107): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "aiQuaterniont<float>"
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(208,14): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(209,61): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(210,33): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(93,13): warning C4244: return: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(92): message : во время компиляции функции-члена класс шаблон "TReal aiVector3t<TReal>::Length(void) const"
+          with
+          [
+              TReal=float
+          ]
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(98): message : выполняется компиляция ссылки на экземпляр шаблон функции "TReal aiVector3t<TReal>::Length(void) const"
+          with
+          [
+              TReal=float
+          ]
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(142): message : во время компиляции функции-члена класс шаблон "bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const"
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const"
+D:\Инж.граф\laba5\UROK33\packages\Assimp.3.0.0\build\native\include\assimp\types.h(150): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "aiVector3t<float>"
+  pipeline.cpp
+  technique.cpp
+D:\Инж.граф\laba5\UROK33\engGraph5_2\technique.cpp(104,36): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  texture.cpp
+D:\Инж.граф\laba5\UROK33\engGraph5_2\texture.cpp(43,129): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  Создание кода
+  540 of 551 functions (98.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  engGraph5_2.vcxproj -> D:\Инж.граф\laba5\UROK33\x64\Release\engGraph5_2.exe
