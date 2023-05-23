@@ -1,0 +1,23 @@
+﻿  camera.cpp
+D:\Инж.граф\lab\lab_3_ECG_ex16\camera.cpp(48,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\camera.cpp(52,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\camera.cpp(59,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\camera.cpp(63,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\camera.cpp(70,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+D:\Инж.граф\lab\lab_3_ECG_ex16\texture.h(5,10): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  math_3d.cpp
+D:\Инж.граф\lab\lab_3_ECG_ex16\math_3d.cpp(28,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\math_3d.cpp(29,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\math_3d.cpp(60,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\math_3d.cpp(60,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\math_3d.cpp(61,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\math_3d.cpp(61,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\math_3d.cpp(62,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\math_3d.cpp(62,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\Инж.граф\lab\lab_3_ECG_ex16\math_3d.cpp(112,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  pipeline.cpp
+  stb_image.cpp
+D:\Инж.граф\lab\lab_3_ECG_ex16\util.h(9,10): fatal error C1083: Не удается открыть файл включение: ogldev_types.h: No such file or directory,
+  texture.cpp
+D:\Инж.граф\lab\lab_3_ECG_ex16\texture.h(5,10): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,

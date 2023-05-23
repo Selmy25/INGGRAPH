@@ -1,0 +1,22 @@
+﻿  camera.cpp
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\camera.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  main.cpp
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\main.cpp(5,10): fatal  error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  math_3d.cpp
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\math_3d.cpp(28,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\math_3d.cpp(29,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\math_3d.cpp(60,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\math_3d.cpp(60,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\math_3d.cpp(61,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\math_3d.cpp(61,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\math_3d.cpp(62,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\math_3d.cpp(62,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\math_3d.cpp(112,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  pipeline.cpp
+  stb_image.cpp
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\util.h(8,10): fatal  error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  texture.cpp
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\texture.h(4,10): fatal  error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  util.cpp
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\util.cpp(9,10): fatal  error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Создание кода...
