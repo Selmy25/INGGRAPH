@@ -1,0 +1,7 @@
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\INJ4.1\x64\Release\INJ4.1.vcxproj.CopyComplete
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\INJ4.1\x64\Release\INJ4.1.exe
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\INJ4.1\x64\Release\freeglut.dll
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\INJ4.1\x64\Release\glew32.dll
+D:\ASUS\Downloads\INJ4\INJ4.1\x64\Release\INJ4.1.exe
+D:\Инж.граф\INJ4\INJ4.1\x64\Release\INJ4.1.exe
+D:\Инж.граф\laba4\INJ4.1\x64\Release\INJ4.1.exe
